@@ -42,6 +42,7 @@
             "src/Idles/camelCase.php",
             "src/Idles/capitalize.php",
             "src/Idles/collect.php",
+            "src/Idles/compactMap.php",
             "src/Idles/compose.php",
             "src/Idles/concat.php",
             "src/Idles/cond.php",
